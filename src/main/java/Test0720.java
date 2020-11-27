@@ -3,5 +3,6 @@ public class Test0720 {
         System.out.println("ChangQi Hello");
         System.out.println("常琪最帅");
         System.out.println("王磊最帅");
+        System.out.println("xixi");
     }
 }
